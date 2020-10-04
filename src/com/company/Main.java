@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) throws InterruptedException {
 	System.out.println("Hello Word!");
-
+        System.out.println("Hello Irina!");
 
 	WebDriver driver = new ChromeDriver();
         //  WebDriver driver = new FierfoxDriver();
